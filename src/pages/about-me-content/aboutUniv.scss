@@ -1,0 +1,63 @@
+.university--style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  height: 50vh;
+}
+
+.img--container--volunteer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  height: 40vh;
+}
+
+.back--arrow {
+  display: flex;
+  justify-content: start;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+.icons--cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8rem;
+  gap: 10rem;
+}
+
+.all--icons--skill {
+  display: flex;
+  justify-content: center;
+}
+@media screen and (max-width: 768px) {
+  .back--arrow {
+    display: flex;
+    justify-content: start;
+    margin-left: 2rem;
+    margin-top: 1rem;
+  }
+  .university--style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    height: 100vh;
+  }
+  .img--container--volunteer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    height: 40vh;
+  }
+  .icons--cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    gap: 2rem;
+  }
+}
