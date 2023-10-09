@@ -38,14 +38,14 @@ const Contact = () => {
               >
                 instagram
               </Link>{" "}
-              &nbsp; or{" "}
+              &nbsp;or{" "}
               <Link
                 href="https://www.facebook.com/andrei.cojocaru.9678"
                 target="_blank"
               >
-                facebook
+                facebook.
               </Link>{" "}
-              &nbsp; . Thanks again for your interest, and I look forward to
+              &nbsp;Thanks again for your interest, and I look forward to
               hearing from you!
             </p>
             <div className="icons--container--contact">
